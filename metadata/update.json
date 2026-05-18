@@ -1,14 +1,20 @@
 {
-  "version_actual": "1.0",
-  "codigo_version": 1,
+  "version_actual": "1.1",
+  "codigo_version": 2,
   "parches": [
     {
       "de_version": 0,
       "a_version": 1,
       "url": "https://github.com/DiegoJT2/Gestor-Torneo/releases/download/v1/update_patch.zip",
       "hash": "800e09c6094d1695e6802e3d19547b3cd5b91080715f970205714d6b9db15a26"
+    },
+    {
+      "de_version": 1,
+      "a_version": 2,
+      "url": "https://github.com/DiegoJT2/Gestor-Torneo/releases/download/v2/update_patch.zip",
+      "hash": "1e3cb0578050c0a63891afb0d2da731e7a66774b3c4ee611973c4e4eb0ffa3ea"
     }
   ],
   "obligatoria": false,
-  "notas_version": "Esta versión incluye mejoras en el emparejamiento para no repetir pareja"
+  "notas_version": "Corregido un error en el pdf generado"
 }
