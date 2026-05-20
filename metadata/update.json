@@ -1,6 +1,6 @@
 {
-  "version_actual": "1.1",
-  "codigo_version": 2,
+  "version_actual": "1.2",
+  "codigo_version": 3,
   "parches": [
     {
       "de_version": 0,
@@ -13,8 +13,14 @@
       "a_version": 2,
       "url": "https://github.com/DiegoJT2/Gestor-Torneo/releases/download/v2/update_patch.zip",
       "hash": "1e3cb0578050c0a63891afb0d2da731e7a66774b3c4ee611973c4e4eb0ffa3ea"
+    },
+    {
+      "de_version": 2,
+      "a_version": 3,
+      "url": "https://github.com/DiegoJT2/Gestor-Torneo/releases/download/v3/update_patch.zip",
+      "hash": "e377c8f95b8ac4f0a50ef71df54cfddd70abc4fd5fb14dc383abe8ccb74ae3f4"
     }
   ],
   "obligatoria": false,
-  "notas_version": "Corregido un error en el pdf generado"
+  "notas_version": "Optimización en la búsqueda por mesa y en la visualización de la vista de Rondas."
 }
