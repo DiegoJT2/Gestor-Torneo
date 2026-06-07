@@ -1,0 +1,16 @@
+{
+  "version_actual": "1.1",
+  "codigo_version": 1,
+  "parches": [
+    {
+      "de_version": 0,
+      "a_version": 1,
+      "url": "https://github.com/DiegoJT2/Gestor-Torneo/releases/download/v1/update_patch.zip",
+      "hash": "d60d9c99cb7f0d63489202497e9ef85d59aaa36e088f21012ac27170ba28a909"
+    }
+  ],
+  "obligatoria": false,
+  "notas_version": "- Añadido un botón de Configuración en la pantalla de inicio.\n- Sistema de gestión de versiones manual con posibilidad de volver a una versión anterior.\n- Copias de seguridad automáticas de la versión anterior.\n- El botón 'Volver a versión anterior' detecta si la versión actual es 'obligatoria' y bloquea el retroceso por seguridad.\n- Si se instala una actualización 'obligatoria', se eliminan automáticamente las copias de seguridad locales de versiones anteriores.\n- Se han realizado mejoras en la seguridad del sistema de actualización.\n- Se han corregido errores y mejorado la estabilidad de la aplicación.",
+  "signature": "bSBEODwYqDljazYN+uORY3Z2Yt/6Lu4vODiPUDStAm3uOCgrU7U2FnHw2vsIPnL/ZZ+UU65hIV1djzv64YXZY6hIIPCvnJUVErXAwL72dNjYT9rVw+/6kApwQiwOwASrJNzzGfnOiPjsGMyASMpcVwEpq4lg/8MnXf7U5FK9JJUXWgMruDkArNX9NxYA2ZT0k823ZHm1pKvywqtw48KJEYeW+Fp+xskkJKmCHwMv/lYqzMlWWn3XD+CMRxoJBliGAWmtG6M5wxiOM1Lwuk7ZLK2VIcFMcvaeMyxfGHA0KURGn4EiUWKrGsbBoKDSsfDjJ68KPoR5YViQ8GWT1N+f5g==",
+  "signature_issued": 1780852180
+}
